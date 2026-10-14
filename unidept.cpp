@@ -13,11 +13,11 @@
 //   b- a pointer or reference to a faculty object to show aggregation
 //   c- an office objct as a data member to show composition
 //4. A nested class deptinfo contining 
-   a- building name 
-   b- floor number 
-   c- contructor 
-   d- display infor
-5. A function display department that displays all dept details
-   a- In the main funct create a faculty object independent to the dept
-   b- create a dept object associated with that faculty member
-   c- display the dept, faculty , office and building info
+//   a- building name 
+//   b- floor number 
+//   c- contructor 
+ //  d- display infor
+//5. A function display department that displays all dept details
+//   a- In the main funct create a faculty object independent to the dept
+//   b- create a dept object associated with that faculty member
+//   c- display the dept, faculty , office and building info
